@@ -1,0 +1,72 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>src/img/awardpic.png</file>
+        <file>src/img/background.png</file>
+        <file>src/img/bomb_magic.png</file>
+        <file>src/img/cure_magic.png</file>
+        <file>src/img/frozen_magic.png</file>
+        <file>src/img/menupic.png</file>
+        <file>src/img/radical_magic.png</file>
+        <file>src/img/speed1.png</file>
+        <file>src/img/speed2.png</file>
+        <file>src/img/stoppic.png</file>
+        <file>src/img/straight1.png</file>
+        <file>src/img/straight2.png</file>
+        <file>src/img/straight3.png</file>
+        <file>src/img/T.png</file>
+        <file>src/img/turning.png</file>
+        <file>src/img/vertical1.png</file>
+        <file>src/img/vertical2.png</file>
+        <file>src/img/vertical3.png</file>
+        <file>src/img/crossing.png</file>
+        <file>src/img/progresspic.png</file>
+        <file>src/img/coinpic.png</file>
+        <file>src/img/End0.png</file>
+        <file>src/img/End1.png</file>
+        <file>src/img/End2.png</file>
+        <file>src/img/End3.png</file>
+        <file>src/img/Main0.png</file>
+        <file>src/img/Main1.png</file>
+        <file>src/img/Main2.png</file>
+        <file>src/img/Main3.png</file>
+        <file>src/img/turning_bl.png</file>
+        <file>src/img/turning_br.png</file>
+        <file>src/img/turning_tl.png</file>
+        <file>src/img/turning_tr.png</file>
+        <file>src/img/startpage.png</file>
+        <file>src/img/speed4.png</file>
+    </qresource>
+    <qresource prefix="/plant">
+        <file>src/plant/boom.png</file>
+        <file>src/plant/bullet.png</file>
+        <file>src/plant/1.png</file>
+        <file>src/plant/2.png</file>
+        <file>src/plant/3.png</file>
+        <file>src/plant/4.png</file>
+        <file>src/plant/5.png</file>
+        <file>src/plant/6.png</file>
+        <file>src/plant/7.png</file>
+        <file>src/plant/8.png</file>
+        <file>src/plant/9.png</file>
+        <file>src/plant/golden_box.png</file>
+        <file>src/plant/lake_tower.png</file>
+        <file>src/plant/rabbit1.png</file>
+        <file>src/plant/rabbit2.png</file>
+        <file>src/plant/stone_house.png</file>
+        <file>src/plant/wooden_horse.png</file>
+        <file>src/plant/ghost.png</file>
+        <file>src/plant/dog1.png</file>
+        <file>src/plant/dog2.png</file>
+        <file>src/plant/horse1.png</file>
+        <file>src/plant/horse2.png</file>
+        <file>src/plant/bottle.png</file>
+        <file>src/plant/bottle_fire.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>src/music/Never Gonna Give You Up.mp3</file>
+        <file>src/music/die1.mp3</file>
+    </qresource>
+    <qresource prefix="/gif">
+        <file>src/gif/start.gif</file>
+    </qresource>
+</RCC>
