@@ -324,7 +324,7 @@ void mainPage::oneWave(){
     }
     newgenermons = 0;
     progressBar->setText(QString("%1 / %2").arg(curWave).arg(totalWave));
-    waveGener->start(1000);
+    waveGener->start(1000/speed);
 }
 
 void mainPage::gameFail(){
